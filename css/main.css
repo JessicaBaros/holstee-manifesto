@@ -1,0 +1,164 @@
+body{
+  font-family: bitter;
+  font-size:20px;
+  font-weight: bold;
+  line-height:25px;
+  padding:10px;
+  text-align: justify;
+  text-transform:uppercase;
+  width:550px;
+}
+#div1{
+  float:left;
+  font-size:40px;
+  height:20px;
+  width:275px;
+}
+
+#div2{
+  float:left;
+  font-size: 120px;
+  height:0px;
+  width:275px;
+  padding-top:30px;
+}
+
+#div3{
+  clear:both;
+  float:left;
+  width:275px;
+}
+
+.spana{
+  font-size:26px;
+}
+
+.spanb{
+  font-size:30px;
+}
+
+#div4{
+  clear:both;
+}
+
+.spanc{
+  font-size:25px;
+}
+
+.spand{
+  font-size:32.113328px;
+}
+
+.spane{
+  font-size:19.9px;
+}
+
+.spanf{
+  font-size:22px;
+}
+
+.spang{
+  font-size:33.8px;
+}
+
+#div5{
+  float:left;
+}
+
+.spanf2{
+  font-size:27px;
+}
+.spanh{
+  font-size:44px;
+}
+
+#div6{
+  float:left;
+  line-height:16px;
+}
+
+.spani{
+  font-size:14.27px;
+}
+
+.spanj{
+  font-size:15px;
+}
+
+.spank{
+  font-size:26px;
+}
+
+#div7{
+  clear:both;
+}
+
+.spanl{
+  font-size:21.39px;
+}
+
+.spanm{
+  font-size:19.33px;
+}
+
+.spann{
+  font-size:22.4px;
+}
+
+#div8{
+  float:left;
+  font-size:43px;
+  padding-top:5px;
+}
+
+#div9{
+  float:left;
+  line-height:17px;
+}
+
+.spano{
+  font-size:23px;
+}
+
+.spanp{
+  font-size:16.8px;
+}
+
+#div10{
+  clear:both;
+}
+
+.spanq{
+  font-size:32.8px;
+}
+
+#div11{
+  float:left;
+  line-height:40px;
+  padding-top:10px;
+}
+
+.spanr{
+  font-size:79px;
+}
+
+.spans{
+  font-size:75px;
+}
+
+#div12{
+  float:left;
+  line-height:35px
+}
+
+.spant{
+  font-size:30px;
+}
+
+.spanu{
+  font-size:45.89px;
+}
+
+.spanv{
+  font-size:36.2px;
+}
