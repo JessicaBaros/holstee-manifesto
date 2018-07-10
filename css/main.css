@@ -2,7 +2,7 @@ body{
   font-family: bitter;
   font-size:20px;
   font-weight: bold;
-  line-height:25px;
+  line-height:30px;
   padding:10px;
   text-align: justify;
   text-transform:uppercase;
@@ -63,6 +63,7 @@ body{
 
 #div5{
   float:left;
+  line-height: 35px;
 }
 
 .spanf2{
@@ -74,7 +75,7 @@ body{
 
 #div6{
   float:left;
-  line-height:16px;
+  line-height:25px;
 }
 
 .spani{
@@ -107,21 +108,22 @@ body{
 
 #div8{
   float:left;
-  font-size:43px;
-  padding-top:5px;
+  font-size:45px;
+  padding-top:10px;
+
 }
 
 #div9{
   float:left;
-  line-height:17px;
+  line-height:25px;
 }
 
 .spano{
-  font-size:23px;
+  font-size:21px;
 }
 
 .spanp{
-  font-size:16.8px;
+  font-size:15.5px;
 }
 
 #div10{
@@ -134,8 +136,7 @@ body{
 
 #div11{
   float:left;
-  line-height:40px;
-  padding-top:10px;
+  line-height:70px;
 }
 
 .spanr{
@@ -148,7 +149,7 @@ body{
 
 #div12{
   float:left;
-  line-height:35px
+  line-height:47px
 }
 
 .spant{
